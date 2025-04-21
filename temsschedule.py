@@ -4,7 +4,6 @@ from collections import defaultdict
 st.title("Tulane EMS Scheduler")
 
 # from streamlit_gsheets import GSheetsConnection
-#
 # # Create a connection object.
 # sheet = st.connection("gsheets", type=GSheetsConnection)
 # df = sheet.read()
